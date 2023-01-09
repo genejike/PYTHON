@@ -22,4 +22,6 @@ DAY-1 of python
 
 `print("Your band name can be :"+bandname)`
 
+![Alt text](images/bandname%20code%202.png)
+![Alt text](images/bandname%20code.png)
 # Solution: https://replit.com/@appbrewery/band-name-generator-end
