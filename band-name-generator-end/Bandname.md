@@ -24,4 +24,3 @@ DAY-1 of python
 
 ![Alt text](images/bandname%20code%202.png)
 ![Alt text](images/bandname%20code.png)
-# Solution: https://replit.com/@appbrewery/band-name-generator-end
